@@ -1,0 +1,8 @@
+{
+    "name": "sarto/projetoweb",
+    "license": "MIT",
+    "autoload":{
+        "classmap": ["./"]
+    },
+    "require": {}
+}
